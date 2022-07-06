@@ -182,3 +182,84 @@ hr {
     color: rgb(65, 67, 67);
 
 }
+
+
+.container-flex {
+    display: flex;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 70px;
+
+
+}
+
+
+.width-half {
+    width: 50%;
+    padding: 4%;
+    
+
+
+
+
+}
+
+.width-half img{
+    width: 100%;
+}
+
+
+
+
+.connect{
+    padding-top: 2%;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.email{
+    padding: 40px;
+    background: rgb(238, 225, 215);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    font-size: 1rem;
+    background:rgb(238, 81, 81) ;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+form input{
+    border: 0;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+footer{
+    background: rgb(3, 3, 33);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+    
+    
+}
+
+.footer-text2{
+    margin-bottom: 0;
+    
+    color: rgb(152, 159, 165);
+    
+}
+.footer-text{
+    
+    color: rgb(238, 81, 81);
+    margin-bottom: 0;
+}
